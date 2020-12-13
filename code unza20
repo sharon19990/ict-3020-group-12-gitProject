@@ -1,0 +1,7 @@
+<?php
+$a='localhost'
+$user='root';
+$password="";
+$td="students";
+$con=new mysqli_connect($a,$user,$password,$td)
+?>
